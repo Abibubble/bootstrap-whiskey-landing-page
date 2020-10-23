@@ -28,6 +28,15 @@ body {
 
 }
 
+/*Block dividers*/
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #f05f40;
+}
+
 /*Jumbotron*/
 
 .jumbotron {
@@ -35,18 +44,18 @@ body {
 }
 
 .jumbotron-header {
-    color: white;
+    color: #86005d;
     font-weight: bold;
     margin-bottom: 30px;
 }
 
 .jumbotron .lead {
     margin: 25px 0;
-    color: #a7a7a7;
+    color: #000000;
 }
 
 .jumbotron small {
     font-size: 60%;
     font-style: italic;
-    color: #d0d0d0;
+    color: #000000;
 }
